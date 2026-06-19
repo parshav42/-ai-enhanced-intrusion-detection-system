@@ -134,7 +134,7 @@ http://localhost:8501
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dataset_Overview.png)
 
 ### Attack Distribution
 
