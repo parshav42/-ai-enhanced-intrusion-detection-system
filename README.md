@@ -134,7 +134,7 @@ http://localhost:8501
 
 ### Dashboard
 
-![Dashboard](screenshots/Dataset_Overview.png)
+![Dashboard](screenshots/Streamlit_Dashboard.png)
 
 ### Attack Distribution
 
@@ -144,21 +144,12 @@ http://localhost:8501
 
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 
-### Feature Importance
+### Project structure
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](screenshots/Project_Folder_Structure.png)
 
-### Model Training Results
 
-![Training Results](screenshots/training_results.png)
 
-## 🔮 Future Scope
-
-* Multi-class attack detection
-* Real-time packet capture using Scapy
-* Email alert system
-* Cloud deployment
-* SIEM integration
 
 ## 👨‍💻 Developer
 
